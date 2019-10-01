@@ -1,3 +1,2 @@
-# Fresh Graduate Academy
-## Machine Learning
+# Fresh Graduate Academy - Machine Learning
 Scholarship from Kemenkominfo
